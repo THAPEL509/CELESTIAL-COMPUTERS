@@ -3,6 +3,6 @@
     <title> CELESTIAL STORE</title>
   </head>
   <body>
-    <h1>CELESTIAL- COMPUTERS</h1>
+    <h1>we only provide quality services</h1>
 </body>
 </html>
